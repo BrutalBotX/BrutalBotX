@@ -1,3 +1,4 @@
+[![MasterHead][![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]]
 <h1 align="center">Hi 👋, I'm Aaditya</h1>
 <h3 align="center">A not-so-passionate future jack of all trades</h3>
 
