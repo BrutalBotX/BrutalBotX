@@ -98,7 +98,9 @@ int main() {
 }
 
 RABIN KARP PATTERN MATCHING
-#include <bits/stdc++.h>
+#include <iostream>
+#include <cstring>
+#include <climits>
 using namespace std;
  
 // d is the number of characters in the input alphabet
@@ -180,7 +182,8 @@ int main()
  
  
  MATRIX CHAIN MULTIPLICATION
- #include <bits/stdc++.h>
+#include <iostream>
+#include <climits>
 using namespace std;
  
 int MatrixChainOrder(int p[], int n)
